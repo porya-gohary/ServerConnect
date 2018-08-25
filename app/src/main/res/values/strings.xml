@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lab Assistant</string>
+    <string name="title_activity_main">دستیار آزمایشگاه</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="Status1">وضعیت دستگاه</string>
+    <string name="Status2">ورودی دیجیتال یک</string>
+    <string name="Status3">ورودی دیجیتال دو</string>
+    <string name="Status4">ورودی آنالوگ یک</string>
+    <string name="Status5">ورودی آنالوگ دو</string>
+    <string name="Status6">خروجی دیجیتال یک</string>
+    <string name="Status7">خروجی دیجیتال دو</string>
+    <string name="Status8">خروجی آنالوگ یک</string>
+    <string name="Status9">خروجی آنالوگ دو</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
